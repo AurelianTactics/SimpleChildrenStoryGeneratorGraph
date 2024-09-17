@@ -1,0 +1,27 @@
+### Ideas for potential things to do down the line to improve things
+Streaming
+More of a response than success/error from the LLM
+Prompt testing
+more like a book
+    Multiple images and a caption per image
+    cover
+multi-model
+prompt base
+more foundation models
+text and image align
+text and image on the same page
+cleaner view
+easier to use tool
+can hire a human for parts
+can input your own image and ask the foundation model to riff based on it
+account info
+langgraph and agentic flow
+greater monitoring
+more cost effective
+evaluation
+better interface
+host somewhere
+many ideas for the graph
+    like multi user input parts to it
+    better flow and reflection
+    more advance reflection ideas from papers
